@@ -1,0 +1,12 @@
+.odd {
+	color: green;
+}
+.even {
+	color: red;
+}
+#header{
+	background:yellow;
+}
+#footer{
+	background:purple;
+}
